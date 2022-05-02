@@ -15,11 +15,9 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Halo, my name is Andjelina Stojanovic
+              Helo everyone, my name is Andjelina Stojanovic
             </h1>
-            <p className="description">
-              Heloo, i am from Serbia, I am living in Vienna since 2016.
-            </p>
+            <p className="description">Serbian girl,living in Vienna.</p>
 
             <Link href="/contact">
               <a className="cta">Contact me</a>
