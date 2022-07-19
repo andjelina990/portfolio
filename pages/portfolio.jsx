@@ -3,6 +3,7 @@ import Link from 'next/link';
 import Navbar from '../components/Navbar';
 
 function Portfolio() {
+  // comment
   return (
     <>
       <Head>
