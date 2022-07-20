@@ -15,9 +15,12 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Helo everyone, my name is Andjelina Stojanovicc
+              Helo everyone, my name is Andjelina Stojanovic
             </h1>
-            <p className="description">Serbian girl,living in Vienna.</p>
+            <p className="description">
+              Junior Frontend Developer-Experience with
+              React.js,Next.js,Javascript,HTML,CSS and more
+            </p>
 
             <Link href="/contact">
               <a className="cta">Contact me</a>

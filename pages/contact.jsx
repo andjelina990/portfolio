@@ -21,6 +21,12 @@ function Contact() {
             <ul className="contact-links">
               <li className="contact-item">Email: astojanovic1900@gmail.com</li>
               <li className="contact-item">Phone: +436503309400</li>
+              <li className="contact-item">
+                LinkedIn Profile: &nbsp;
+                <a href="https://www.linkedin.com/in/andjelina-stojanovic-489885228/">
+                  LinkedIn:
+                </a>
+              </li>
             </ul>
           </div>
         </div>

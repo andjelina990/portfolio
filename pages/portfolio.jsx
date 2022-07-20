@@ -18,22 +18,42 @@ function Portfolio() {
             <h1 data-cy="pageTitle" className="title">
               Portfolio
             </h1>
-            <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
-            </p>
+            <p className="description">Some of my projects</p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
-                <img src="/chitchat.png" className="portfolio-image" />
+                <img src="/meme generator.png" className="portfolio-image" />
 
-                <h4 className="portfolio-name">Chat App Exploration</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name">Meme Generator</h4>
               </div>
               <div className="portfolio-item">
-                <img src="/kajian.jpg" className="portfolio-image" />
+                <img
+                  src="/travel Full Stack Web Site.png"
+                  className="portfolio-image"
+                />
+                <img src="/travel login.png" className="portfolio-image" />
 
-                <h4 className="portfolio-name">kajian App</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name">
+                  Travel Agency Full Stack Web Site
+                </h4>
+                <div className="portfolio-category">Web Site</div>
+              </div>
+
+              <div className="portfolio-item">
+                <img
+                  src="/transport web site.png"
+                  className="portfolio-image"
+                />
+
+                <h4 className="portfolio-name">Transport Web Site</h4>
+              </div>
+
+              <div className="portfolio-item">
+                <img src="/ecoomerce.png" className="portfolio-image" />
+                <br></br>
+                <img src="/products.png" className="portfolio-image" />
+
+                <h4 className="portfolio-name">Ecommerce Store</h4>
               </div>
             </div>
           </div>
